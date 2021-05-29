@@ -2,5 +2,7 @@ StudentDAOImpl.class
 Main.class
 MappingEdit.class
 ProcessServlet.class
+MyContext.class
+Test.class
 Student.class
 StudentDAO.class

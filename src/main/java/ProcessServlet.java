@@ -8,6 +8,7 @@ import java.io.*;
 import java.util.List;
 import javax.servlet.*;
 import javax.servlet.http.*;
+import javax.servlet.annotation.WebServlet;
 
 // Extend HttpServlet class
 public class ProcessServlet extends HttpServlet {
